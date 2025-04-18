@@ -1,0 +1,33 @@
+[LegacySession: saved at previous logout]
+clientMachine1=localhost
+command1=\\0
+count=1
+
+[Session: saved at previous logout]
+clientId1=10e8e8c9e1000174482195800000162340003
+clientId2=10e8e8c9e1000174490065600000009200004
+clientId3=10e8e8c9e1000174493902700000107510005
+clientId4=10e8e8c9e1000174493962100000107510010
+clientId5=10e8e8c9e1000174495174000000107510013
+count=5
+discardCommand5[$e]=rm,$HOME/.config/session/konsole_10e8e8c9e1000174495174000000107510013_1744960658_880287
+program1=/usr/lib/kscreen_osd_service
+program2=/usr/lib/DiscoverNotifier
+program3=/usr/bin/openrgb
+program4=firefox
+program5=/usr/bin/konsole
+restartCommand1=/usr/lib/kscreen_osd_service,-session,10e8e8c9e1000174482195800000162340003_1744960658_880264
+restartCommand2=/usr/lib/DiscoverNotifier,-session,10e8e8c9e1000174490065600000009200004_1744960658_880276
+restartCommand3=/usr/bin/openrgb,-session,10e8e8c9e1000174493902700000107510005_1744960658_880270
+restartCommand4=/usr/lib/firefox/firefox,--sm-client-id,10e8e8c9e1000174493962100000107510010
+restartCommand5=/usr/bin/konsole,-session,10e8e8c9e1000174495174000000107510013_1744960658_880287
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+restartStyleHint4=0
+restartStyleHint5=0
+userId1=sudouser
+userId2=sudouser
+userId3=sudouser
+userId4=sudouser
+userId5=sudouser

@@ -1,0 +1,9 @@
+apg
+apg-debug
+ccze
+ccze-debug
+hollywood
+kwin-polonium
+speedometer
+yay
+yay-debug
