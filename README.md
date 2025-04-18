@@ -16,6 +16,10 @@ Theme ☆
 Breeze-Dark [GTK2], Breeze [GTK3] 
 Icons ☆ 
 candy-icons [GTK2/3] 
+
+*DISCLAMER: USE  SETUP.SH AT YOUR OWN RISK. IT IS UNTESTED.*
+*I AM NOT RESPONSIBLE IF IT BREAKS SOMETHING.*
+*READ THRU THE FILES, DONT DO A STUPID.*
 ________________________________________________
 
 
