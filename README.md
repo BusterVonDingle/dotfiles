@@ -1,24 +1,23 @@
+⭒My personal Arch dotfiles⭒
+___________________________
+OS ☆ 
+Arch Linux x86_64 
+Kernel ☆ 
+6.14.2-arch1-1
+Shell ☆ 
+fish 4.0.1 
+Resolution ☆ 
+1080x1920, 1920x1080
+DE ☆ 
+Plasma 6.3.4
+WM ☆ 
+KWin(X11)
+Theme ☆ 
+Breeze-Dark [GTK2], Breeze [GTK3] 
+Icons ☆ 
+candy-icons [GTK2/3] 
 ________________________________________________
-+   My personal dotfiles for my Arch desktop   +
-|______________________________________________|
-|  OS ☆ Arch Linux x86_64                      |
-|  Kernel ☆ 6.14.2-arch1-1                     |
-|  Shell ☆ fish 4.0.1                          |
-|  Resolution ☆ 1080x1920, 1920x1080           |
-|  DE ☆ Plasma 6.3.4                           |
-|  WM ☆ KWin (X11)                             |
-|  Theme ☆ Breeze-Dark [GTK2], Breeze [GTK3]   |
-|  Icons ☆ candy-icons [GTK2/3]                |
-|______________________________________________|
-+**********************************************+
 
-
-
-████████████████████████████████████████████████████████████
-*** | »use setup.sh at your own risk. it is untested   | ***
-*** | and i am not responsible if it breaks something  | ***
-*** | »Read the files, don't do a stupid.              | ***
-============================================================
 
               a8888b.
              d888888b.
